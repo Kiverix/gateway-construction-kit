@@ -1,6 +1,8 @@
 # Gateway Construction Kit
 - Thank you for downloading my mod! To install it, place the "Kiv_GatewayCK" folder in your GameData folder on your KSP install.
 # -- Changelog --
+### Uppdate 0.0.2:
+- Added all placeholder habitation modules with correct names, waiting for models
 ### Update 0.0.1:
 - Started adding placeholder parts (uses the MK1 Crew Cabin), with custom names, descriptions and manufacturers.
 ### Update 0.0.0:
