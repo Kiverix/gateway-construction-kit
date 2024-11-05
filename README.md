@@ -10,4 +10,4 @@
 ### Update 0.0.0:
 - Initial dev. start.
 - I have also added some anotated (by me) blueprints from ESA in 2024.
-- It's time to starr suffering through C# (i have never coded in C# before lol)
+- It's time to start suffering through C# (i have never coded in C# before lol)
